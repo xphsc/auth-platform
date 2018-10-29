@@ -1,7 +1,7 @@
 # auth-platform
 ## 简介
 
-> spring boot前后端分离模式的管理系统开发平台。
+> spring boot前后端分离模式的权限管理系统开发平台。
 ## 使用技术
 
 ### 后端
